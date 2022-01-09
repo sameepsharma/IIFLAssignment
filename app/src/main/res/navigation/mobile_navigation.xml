@@ -29,7 +29,7 @@
 
     <fragment
         android:id="@+id/nav_about"
-        android:name="com.sameep.iiflassignment.ui.slideshow.SlideshowFragment"
+        android:name="com.sameep.iiflassignment.ui.about.AboutFragment"
         android:label="@string/menu_about"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/fragment_about" />
 </navigation>
